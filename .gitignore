@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Agents_Workflow/.vs/Agents_Workflow
+/Agents_Workflow/bin/Debug/net10.0
+/Agents_Workflow/obj
